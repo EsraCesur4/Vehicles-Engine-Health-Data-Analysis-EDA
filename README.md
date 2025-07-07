@@ -1,6 +1,6 @@
 ![## 🔍 7  Örnek Tahminler (Sample Predictions) Modelin gerçek hayattaki tahmin gücünü göstermek amacıyla test setinden rastgele seçilen öğrenciler için tahminler yapılmıştır  Öğrenci  Gerçek Değer  (1)](https://github.com/user-attachments/assets/a7f4165c-1696-4121-b9bf-ebe3e0a86c5c)
 
-# Automative Vehicles Engine Health Data Analysis and EDA
+# Automative Vehicles Engine Health Data Analysis & EDA
 
 This project performs an in-depth Exploratory Data Analysis (EDA) on engine sensor data to uncover patterns, assess data quality, and extract meaningful insights about engine operating conditions.
 
